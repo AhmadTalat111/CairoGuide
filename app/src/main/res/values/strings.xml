@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CairoGuide</string>
+
+    <string name="Pharos">Pharos</string>
+    <string name="pyramids">Giza Pyramids</string>
+    <string name="pyramids_address">Nazlet Al-seman, Giza</string>
+    <string name="sphynix">Sphynix</string>
+    <string name="sphynix_address">Nazlet Al-seman, Giza</string>
+    <string name="Egyptian_Museum">Egyptian Museum</string>
+    <string name="museum_address">Al-Tahrir Square, Cairo</string>
+    <string name="zoser">Zoser</string>
+    <string name="zoser_address">Saqara, Giza</string>
+
+    <string name="Religious">Religious</string>
+    <string name="azhar">Al-Azhar Mosque</string>
+    <string name="azhar_address">Al-Azhar Mosque, Al - Darb Al - Ahmar, Cairo</string>
+    <string name="magra_oyoon">Soor Magra Al-Oyoon</string>
+    <string name="magra_oyoon_address">El - Sayeda A\'isha, Cairo</string>
+    <string name="Ali_mosque">Muhamed Ali Mosque</string>
+    <string name="Ali_mosque_address">Al - Qalaa, Cairo</string>
+    <string name="Papylon_Castle">Papylon Castle</string>
+    <string name="Papylon_Castle_address">Al - Darb Al - Ahmar, Cairo</string>
+
+    <string name="Restaurants">Restaurant</string>
+    <string name="Felela">Felela</string>
+    <string name="Felela_address">Al-Tahrir Square, Cairo</string>
+    <string name="Tahrir_Koshari">Tahrir Koshari</string>
+    <string name="Tahrir_Koshari_address">Al-Tahrir Square, Cairo</string>
+    <string name="prince">Al prince</string>
+    <string name="prince_address">Madinet Nasr, Cairo</string>
+    <string name="Sobhi_Kaber">Sobhi Kaber</string>
+    <string name="Sobhi_Kaber_address">Down Town, Cairo</string>
+
+    <string name="Shopping">Shopping</string>
+    <string name="carfour">Carefour</string>
+    <string name="carfour_address">Maadi, Cairo</string>
+    <string name="Hyper">Hyper Market</string>
+    <string name="Hyper_address">Sheikh Zayed, Cairo</string>
+    <string name="citystars">City Stars</string>
+    <string name="citystars_address">Madinat Nasr, Cairo</string>
+    <string name="Khan">Khan Al Khalily</string>
+    <string name="Khan_address">Al Hussein, Cairo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

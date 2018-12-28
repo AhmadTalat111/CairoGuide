@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary_color">#4A312A</color>
+    <color name="primary_dark_color">#2F1D1A</color>
+    <color name="Pharos">#fff9c4</color>
+    <color name="Restaurants">#ff9100</color>
+    <color name="Religious">#a1887f</color>
+    <color name="Shopping">#607d8b</color>
+    <color name="TabLayout">#7986cb</color>
+</resources>
